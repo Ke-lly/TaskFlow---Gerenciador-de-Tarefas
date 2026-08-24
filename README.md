@@ -8,6 +8,7 @@ Projeto colaborativo com GitHub para o desenvolvimento de um gerenciador de tare
 * HTML
 * CSS
 * JavaScript
+* Conflito de Merge, primeiro teste
 
 
 ## Estrutura de Pastas
