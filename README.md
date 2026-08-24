@@ -1,15 +1,17 @@
 # TaskFlow - Gerenciador de Tarefas
 
 
-Projeto colaborativo com GitHub para o desenvolvimento de um gerenciador de tarefas diárias.
+Projeto acadêmico para gerenciamento simples de tarefas diárias.
 
 
 ## Tecnologias Utilizadas
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
-* Conflito de Merge, primeiro teste
+* conflito de merge: git merge, modificado a mesma linha de um mesmo arquivo.
+=======
 
+Projeto colaborativo com GitHub para o desenvolvimento de um gerenciador de tarefas diárias.
 
 ## Estrutura de Pastas
 * `src/`: Arquivos do código fonte (HTML, CSS e JS)
